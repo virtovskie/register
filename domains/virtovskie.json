@@ -1,0 +1,17 @@
+{
+  "owner": {
+    "username": "virtovskie"
+  },
+  "records": {
+    "A": ["107.189.26.132"],
+    "SRV": [
+      {
+        "name": "_matrix._tcp",
+        "priority": 10,
+        "weight": 0,
+        "port": 8448,
+        "target": "matrix.virtovskie.is-a.dev"
+      }
+    ]
+  }
+}
